@@ -1,6 +1,5 @@
 
-Hi there 👋 welcome to my Repo
-
+<h3 style=text-align:center>Hi there 👋 welcome to my Repo</h3>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Full stack web development (MERN)
 - 👯 I’m looking for help with Learning and sharing ideas of web development
