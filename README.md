@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Learning and sharing ideas for web development**
 
-- 👨‍💻 All of my projects are available at [https://mohammed-burhan.netlify.app/](https://mohammed-burhan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohammedburhan.netlify.app/](https://mohammedburhan.netlify.app/)
 
 - 📫 How to reach me **smdburhan25@gmail.com**
 
