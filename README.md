@@ -5,10 +5,12 @@
 
 - 🤝 I’m looking for help with **Learning and sharing ideas for web development**
 
-- 👨‍💻 All of my projects are available at [https://mohammedburhan.netlify.app/](https://mohammedburhan.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mohammedburhan.netlify.app/)
 
 - 📫 How to reach me **smdburhan25@gmail.com**
 
+- 📃 Know about my experiences [Resume](https://drive.google.com/file/d/1I5gFCVx9YADPCA3iVUWz4kTdzkzIyeyO/view?usp=sharing)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-burhan-25may" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-burhan-25may" height="30" width="40" /></a>
